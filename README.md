@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sanket Pange</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanket+Pange!;+A+DevOps+Engineer+from+India" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pangesanket&label=Profile%20views&color=0e75b6&style=flat" alt="pangesanket" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pangesanket" alt="pangesanket" /></a> </p>
 
 - 🔭 I’m currently working on **AWS, kubernetes projects**
 
